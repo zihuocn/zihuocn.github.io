@@ -6,10 +6,21 @@
     <description>Recent content in Windows on Z-Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 19 Jan 2020 21:59:53 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 22:22:00 +0800</lastBuildDate>
     
 	<atom:link href="/categories/windows/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Internet Download Manager 6.36 Build 2</title>
+      <link>/posts/internet-download-manager/</link>
+      <pubDate>Sun, 19 Jan 2020 22:22:00 +0800</pubDate>
+      
+      <guid>/posts/internet-download-manager/</guid>
+      <description>&lt;h1 id=&#34;internet-download-manager-636-build-2&#34;&gt;Internet Download Manager 6.36 Build 2&lt;/h1&gt;
+&lt;p&gt;Internet Download Manager (IDM) 是一款先进的下载管理工具，支持 HTTP、FTP、HTTPS 和 MMS 协议，凭借其智能动态文件分段技术，可以将下载速度最多提高5倍。&lt;/p&gt;
+&lt;p&gt;与其他下载管理器和加速器不同，IDM 在下载过程中动态地对下载的文件进行分段，并在不进行额外连接和登录步骤的情况下重用可用的连接，以实现最佳的加速性能。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>WinRAR 5.80</title>
