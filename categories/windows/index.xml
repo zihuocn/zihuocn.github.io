@@ -6,10 +6,20 @@
     <description>Recent content in Windows on Z-Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 19 Jan 2020 21:54:30 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 21:59:53 +0800</lastBuildDate>
     
 	<atom:link href="/categories/windows/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WinRAR 5.80</title>
+      <link>/posts/winrar/</link>
+      <pubDate>Sun, 19 Jan 2020 21:59:53 +0800</pubDate>
+      
+      <guid>/posts/winrar/</guid>
+      <description>&lt;h1 id=&#34;winrar-580&#34;&gt;WinRAR 5.80&lt;/h1&gt;
+&lt;p&gt;WinRAR 是功能强大的压缩文件管理器，完全支持 RAR 和 ZIP 压缩文件，并且能够解压缩 CAB、ARJ、LZH、TAR、GZ、BZ2、UUE、JAR、ISO、7Z、XZ、Z 等压缩文件。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>HashCheck 2.4.0</title>
