@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>归档 on Z-Me</title>
-    <link>/posts/</link>
-    <description>Recent content in 归档 on Z-Me</description>
+    <title>V2Ray on Z-Me</title>
+    <link>/tags/v2ray/</link>
+    <description>Recent content in V2Ray on Z-Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 10 Jan 2020 20:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 22:05:16 +0800</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/v2ray/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,26 +22,6 @@
 &lt;p&gt;本内容转载自&lt;a href=&#34;https://medium.com/@TachyonDevel/%E6%BC%AB%E8%B0%88%E5%90%84%E7%A7%8D%E9%BB%91%E7%A7%91%E6%8A%80%E5%BC%8F-dns-%E6%8A%80%E6%9C%AF%E5%9C%A8%E4%BB%A3%E7%90%86%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8-62c50e58cbd0&#34;&gt;漫谈各种黑科技式 DNS 技术在代理环境中的应用&lt;/a&gt;。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;这篇文章目的是以非技术性例举方式，谈一谈各种 DNS 技术在代理环境中如何工作，主要集中在对 V2Ray 的使用上，因为最近 V2Ray 发布了一个 DNS 相关的功能：&lt;a href=&#34;https://steemit.com/cn/@v2ray/dns&#34;&gt;https://steemit.com/cn/@v2ray/dns&lt;/a&gt;，其用法很多，可以解决很多问题，但如果不理解其工作方式，就很难做出合理的配置。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>WinRAR 5.80</title>
-      <link>/posts/winrar/</link>
-      <pubDate>Sun, 19 Jan 2020 21:59:53 +0800</pubDate>
-      
-      <guid>/posts/winrar/</guid>
-      <description>&lt;h1 id=&#34;winrar-580&#34;&gt;WinRAR 5.80&lt;/h1&gt;
-&lt;p&gt;WinRAR 是功能强大的压缩文件管理器，完全支持 RAR 和 ZIP 压缩文件，并且能够解压缩 CAB、ARJ、LZH、TAR、GZ、BZ2、UUE、JAR、ISO、7Z、XZ、Z 等压缩文件。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>HashCheck 2.4.0</title>
-      <link>/posts/hashcheck/</link>
-      <pubDate>Sun, 19 Jan 2020 21:54:30 +0800</pubDate>
-      
-      <guid>/posts/hashcheck/</guid>
-      <description>&lt;h1 id=&#34;hashcheck-240&#34;&gt;HashCheck 2.4.0&lt;/h1&gt;
-&lt;p&gt;HashCheck，是一款适用于 Windows 操作系统的文件 hash 值校验工具，它快速高效，磁盘和内存占用非常少，并且是&lt;a href=&#34;https://github.com/gurnec/HashCheck&#34;&gt;开源&lt;/a&gt;的。&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -6,10 +6,37 @@
     <description>Recent content in 标签 on Z-Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 19 Jan 2020 21:59:53 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 22:05:16 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DNS</title>
+      <link>/tags/dns/</link>
+      <pubDate>Sun, 19 Jan 2020 22:05:16 +0800</pubDate>
+      
+      <guid>/tags/dns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V2Ray</title>
+      <link>/tags/v2ray/</link>
+      <pubDate>Sun, 19 Jan 2020 22:05:16 +0800</pubDate>
+      
+      <guid>/tags/v2ray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>代理</title>
+      <link>/tags/%E4%BB%A3%E7%90%86/</link>
+      <pubDate>Sun, 19 Jan 2020 22:05:16 +0800</pubDate>
+      
+      <guid>/tags/%E4%BB%A3%E7%90%86/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Windows 软件</title>
