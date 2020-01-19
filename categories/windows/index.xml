@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Z-Me</title>
-    <link>/</link>
-    <description>Recent content on Z-Me</description>
+    <title>Windows on Z-Me</title>
+    <link>/categories/windows/</link>
+    <description>Recent content in Windows on Z-Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 19 Jan 2020 21:54:30 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/windows/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>/posts/hashcheck/</guid>
       <description>&lt;h1 id=&#34;hashcheck-240&#34;&gt;HashCheck 2.4.0&lt;/h1&gt;
 &lt;p&gt;HashCheck，是一款适用于 Windows 操作系统的文件 hash 值校验工具，它快速高效，磁盘和内存占用非常少，并且是&lt;a href=&#34;https://github.com/gurnec/HashCheck&#34;&gt;开源&lt;/a&gt;的。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>/about/</link>
-      <pubDate>Fri, 10 Jan 2020 20:10:28 +0800</pubDate>
-      
-      <guid>/about/</guid>
-      <description>关于 欢迎访问 Z-Me 网站，请记住本站网址： https://z-me.net 许可协议 除特别声明外，本站所有内容均采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。 联系方式 E-</description>
     </item>
     
   </channel>
