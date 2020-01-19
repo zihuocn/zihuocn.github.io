@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>关于 - Z-Me</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155335887-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-155335887-1');
+    </script>
+</head>
+<body>
+    <aside class="mdc-drawer my-drawer">
+    <div class="mdc-drawer__content">
+        <nav class="mdc-list">
+            <a class="mdc-list-item " href="/">
+                <i class="material-icons mdc-list-item__graphic">home</i>
+                <span class="mdc-list-item__text">主页</span>
+            </a>
+            <a class="mdc-list-item " href="/posts/">
+                <i class="material-icons mdc-list-item__graphic">storage</i>
+                <span class="mdc-list-item__text">归档</span>
+            </a>
+            <a class="mdc-list-item " href="/categories/">
+                <i class="material-icons mdc-list-item__graphic">folder</i>
+                <span class="mdc-list-item__text">分类</span>
+            </a>
+            <a class="mdc-list-item " href="/tags/">
+                <i class="material-icons mdc-list-item__graphic">bookmarks</i>
+                <span class="mdc-list-item__text">标签</span>
+            </a>
+            <a class="mdc-list-item mdc-list-item--activated" href="/about/">
+                <i class="material-icons mdc-list-item__graphic">info</i>
+                <span class="mdc-list-item__text">关于</span>
+            </a>
+        </nav>
+    </div>
+</aside>
+    <div class="mdc-drawer-scrim"></div>
+    <div class="mdc-drawer-app-content">
+        <header class="mdc-top-app-bar mdc-top-app-bar--fixed mdc-elevation--z2">
+    <div class="mdc-top-app-bar__row">
+        <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+            <button class="material-icons mdc-top-app-bar__navigation-icon mdc-icon-button">menu</button>
+            <span class="mdc-top-app-bar__title">Z-Me</span>
+        </section>
+        <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end" role="toolbar">
+            <button class="material-icons mdc-top-app-bar__action-item mdc-icon-button" id="search">search</button>
+        </section>
+    </div>
+</header>
+        <div class="mdc-dialog">
+    <div class="mdc-dialog__container">
+        <div class="mdc-dialog__surface search-surface">
+            <div class="mdc-text-field mdc-text-field--outlined mdc-text-field--with-trailing-icon search-text-field">
+                <i class="material-icons mdc-text-field__icon">search</i>
+                <input type="text" class="mdc-text-field__input" id="search-box">
+                <div class="mdc-notched-outline">
+                    <div class="mdc-notched-outline__leading"></div>
+                    <div class="mdc-notched-outline__notch">
+                        <label for="tf-outlined" class="mdc-floating-label">搜索</label>
+                    </div>
+                    <div class="mdc-notched-outline__trailing"></div>
+                </div>
+            </div>
+            <div class="mdc-dialog__content search-content" id="my-dialog-content">
+                <div id="hits"></div>
+                <div id="pagination"></div>
+            </div>
+            <footer class="mdc-dialog__actions search-footer">
+                <div id="powered-by"></div>
+                <button type="button" class="mdc-button mdc-button--raised mdc-dialog__button" data-mdc-dialog-action="close">
+                    <div class="mdc-button__ripple"></div>
+                    <span class="mdc-button__label">关闭</span>
+                </button>
+            </footer>
+        </div>
+    </div>
+    <div class="mdc-dialog__scrim"></div>
+</div>
+        <div class="main-content mdc-top-app-bar--fixed-adjust">
+            <main class="main-block">
+                <div class="container full-height mdc-elevation--z2">
+    <h1 id="关于">关于</h1>
+<p>欢迎访问 Z-Me 网站，请记住本站网址：</p>
+<p><a href="https://z-me.net">https://z-me.net</a></p>
+<h2 id="许可协议">许可协议</h2>
+<p><a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh"><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="知识共享许可协议"></a></p>
+<p>除特别声明外，本站所有内容均采用<a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。</p>
+<h2 id="联系方式">联系方式</h2>
+<p>E-mail：<a href="mailto:zihuocn@gmail.com">zihuocn@gmail.com</a></p>
+<p>Telegram：<a href="https://t.me/zihuocn">https://t.me/zihuocn</a></p>
+
+</div>
+            </main>
+            <footer class="footer">
+    <small>
+        &copy;
+        <script>
+            document.write(new Date().getFullYear())
+        </script>
+        <a href="/about/">Z-Me</a>
+        Power by <a href="https://gohugo.io/" rel="external" target="_blank">Hugo</a>
+    </small>
+</footer>
+        </div>
+    </div>
+    <script src="/js/script.js"></script>
+</body>
+</html>
