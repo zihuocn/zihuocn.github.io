@@ -6,10 +6,23 @@
     <description>Recent content in Windows on Z-Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 19 Jan 2020 22:22:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2020 14:41:56 +0800</lastBuildDate>
     
 	<atom:link href="/categories/windows/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>使用服务封装器创建 Windows 服务</title>
+      <link>/posts/create-a-windows-service/</link>
+      <pubDate>Mon, 20 Jan 2020 14:41:56 +0800</pubDate>
+      
+      <guid>/posts/create-a-windows-service/</guid>
+      <description>&lt;h1 id=&#34;使用服务封装器创建-windows-服务&#34;&gt;使用服务封装器创建 Windows 服务&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Windows 服务是指 Windows NT 操作系统中的一种运行在后台的计算机程序。它在概念上类似于 Unix 守护进程。Windows 服务必须符合服务控制管理器（负责管理Windows服务的组件）的接口规则和协议。——&lt;a href=&#34;https://zh.wikipedia.org/wiki/Windows%E6%9C%8D%E5%8A%A1&#34;&gt;维基百科&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;将程序设置为 Windows 服务，可以让程序在后台运行，隐藏程序运行的用户界面，或者让程序开机启动等。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Internet Download Manager 6.36 Build 2</title>
