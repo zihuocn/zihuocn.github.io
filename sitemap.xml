@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/android/</loc>
+    <lastmod>2020-01-21T13:31:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/android-%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2020-01-21T13:31:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-21T13:31:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-01-21T13:31:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-21T13:31:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/moonreader-pro/</loc>
+    <lastmod>2020-01-21T13:31:40+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/v2ray/</loc>
     <lastmod>2020-01-20T14:41:56+08:00</lastmod>
   </url>
@@ -13,27 +43,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-01-20T14:41:56+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/create-a-windows-service/</loc>
     <lastmod>2020-01-20T14:41:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-01-20T14:41:56+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/%E6%9C%8D%E5%8A%A1/</loc>
-    <lastmod>2020-01-20T14:41:56+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-01-20T14:41:56+08:00</lastmod>
   </url>
   
