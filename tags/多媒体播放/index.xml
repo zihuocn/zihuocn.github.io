@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>多媒体播放 on Z-Me</title>
+    <link>/tags/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/</link>
+    <description>Recent content in 多媒体播放 on Z-Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 25 Jan 2020 09:48:19 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MX Player Pro v1.15.9</title>
+      <link>/posts/mx-player-pro/</link>
+      <pubDate>Sat, 25 Jan 2020 09:48:19 +0800</pubDate>
+      
+      <guid>/posts/mx-player-pro/</guid>
+      <description>&lt;h1 id=&#34;mx-player-pro-v1159&#34;&gt;MX Player Pro v1.15.9&lt;/h1&gt;
+&lt;p&gt;MX Player Pro 是 Android 平台上功能最强大的视频播放器，拥有先进的硬件加速、多核解码和多种字幕字幕支持。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
