@@ -6,10 +6,19 @@
     <description>Recent content in 标签 on Z-Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 02 Feb 2020 17:14:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2020 18:39:49 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Android 软件</title>
+      <link>/tags/android-%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Sun, 02 Feb 2020 18:39:49 +0800</pubDate>
+      
+      <guid>/tags/android-%E8%BD%AF%E4%BB%B6/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Windows 软件</title>
@@ -26,15 +35,6 @@
       <pubDate>Sun, 02 Feb 2020 17:14:00 +0800</pubDate>
       
       <guid>/tags/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android 软件</title>
-      <link>/tags/android-%E8%BD%AF%E4%BB%B6/</link>
-      <pubDate>Sun, 02 Feb 2020 16:07:47 +0800</pubDate>
-      
-      <guid>/tags/android-%E8%BD%AF%E4%BB%B6/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,20 @@
     <description>Recent content on Z-Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 02 Feb 2020 17:14:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2020 18:39:49 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mathlab 图形计算器 v4.14.159</title>
+      <link>/posts/mathlab-graphing-calculator/</link>
+      <pubDate>Sun, 02 Feb 2020 18:39:49 +0800</pubDate>
+      
+      <guid>/posts/mathlab-graphing-calculator/</guid>
+      <description>&lt;h1 id=&#34;mathlab-图形计算器-v414159&#34;&gt;Mathlab 图形计算器 v4.14.159&lt;/h1&gt;
+&lt;p&gt;如果你正在寻找一个使用流畅、天衣无缝的图形计算器应用程序，恭喜你，你已经找到了！Mathlab 发行的图形计算器是一款非常科学的集成代数图形计算器，是中小学生和大学生研究生，以及任何有复杂计算需求者必不可少的计算工具。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Potplayer 1.7.21097</title>
