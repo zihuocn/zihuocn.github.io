@@ -3,32 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/potplayer/</loc>
+    <lastmod>2020-02-02T17:14:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/windows/</loc>
-    <lastmod>2020-02-02T16:30:17+08:00</lastmod>
+    <lastmod>2020-02-02T17:14:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/windows-%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2020-02-02T16:30:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/xmanager-power-suite/</loc>
-    <lastmod>2020-02-02T16:30:17+08:00</lastmod>
+    <lastmod>2020-02-02T17:14:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-02-02T16:30:17+08:00</lastmod>
+    <lastmod>2020-02-02T17:14:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-02-02T16:30:17+08:00</lastmod>
+    <lastmod>2020-02-02T17:14:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/</loc>
+    <lastmod>2020-02-02T17:14:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2020-02-02T17:14:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/xmanager-power-suite/</loc>
     <lastmod>2020-02-02T16:30:17+08:00</lastmod>
   </url>
   
@@ -54,11 +64,6 @@
   
   <url>
     <loc>/posts/mx-player-pro/</loc>
-    <lastmod>2020-01-25T09:48:19+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/</loc>
     <lastmod>2020-01-25T09:48:19+08:00</lastmod>
   </url>
   
