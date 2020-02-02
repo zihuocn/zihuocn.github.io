@@ -6,10 +6,20 @@
     <description>Recent content in Android on Z-Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 25 Jan 2020 09:48:19 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2020 13:19:44 +0800</lastBuildDate>
     
 	<atom:link href="/categories/android/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Speedtest v4.4.32</title>
+      <link>/posts/speedtest/</link>
+      <pubDate>Sun, 02 Feb 2020 13:19:44 +0800</pubDate>
+      
+      <guid>/posts/speedtest/</guid>
+      <description>&lt;h1 id=&#34;speedtest-v4432&#34;&gt;Speedtest v4.4.32&lt;/h1&gt;
+&lt;p&gt;Speedtest 是排名第一的网速测试工具，拥有庞大的全球服务器网络，可以在任何地方实现精确测试。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>MX Player Pro v1.15.9</title>
