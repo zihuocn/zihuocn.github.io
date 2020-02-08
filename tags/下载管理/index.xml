@@ -32,14 +32,13 @@
     </item>
     
     <item>
-      <title>Internet Download Manager 6.36 Build 3</title>
+      <title>Internet Download Manager 6.36 Build 7</title>
       <link>/posts/internet-download-manager/</link>
       <pubDate>Sun, 19 Jan 2020 22:22:00 +0800</pubDate>
       
       <guid>/posts/internet-download-manager/</guid>
-      <description>&lt;h1 id=&#34;internet-download-manager-636-build-3&#34;&gt;Internet Download Manager 6.36 Build 3&lt;/h1&gt;
-&lt;p&gt;Internet Download Manager (IDM) 是一款先进的下载管理工具，支持 HTTP、FTP、HTTPS 和 MMS 协议，凭借其智能动态文件分段技术，可以将下载速度最多提高5倍。&lt;/p&gt;
-&lt;p&gt;与其他下载管理器和加速器不同，IDM 在下载过程中动态地对下载的文件进行分段，并在不进行额外连接和登录步骤的情况下重用可用的连接，以实现最佳的加速性能。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;internet-download-manager-636-build-7&#34;&gt;Internet Download Manager 6.36 Build 7&lt;/h1&gt;
+&lt;p&gt;Internet Download Manager (IDM) 是一款先进的下载管理工具，支持 HTTP、FTP、HTTPS 和 MMS 协议，凭借其智能动态文件分段技术，可以将下载速度最多提高5倍。&lt;/p&gt;</description>
     </item>
     
   </channel>
