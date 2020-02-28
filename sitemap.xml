@@ -3,13 +3,178 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/vmware-workstation-pro/</loc>
+    <lastmod>2020-02-04T17:57:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/windows/</loc>
+    <lastmod>2020-02-09T07:30:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/windows-%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2020-02-09T07:30:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-01-10T20:10:28+08:00</lastmod>
+    <lastmod>2020-02-28T09:31:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-02-28T09:31:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-02-28T09:31:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/diskgenius/</loc>
+    <lastmod>2020-02-03T13:51:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/android/</loc>
+    <lastmod>2020-02-28T09:31:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/android-%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2020-02-28T09:31:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/mathlab-graphing-calculator/</loc>
+    <lastmod>2020-02-02T18:39:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/potplayer/</loc>
+    <lastmod>2020-02-02T17:14:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/</loc>
+    <lastmod>2020-02-10T21:09:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/xmanager-power-suite/</loc>
+    <lastmod>2020-02-02T16:30:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/netguard/</loc>
+    <lastmod>2020-02-28T09:31:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/speedtest/</loc>
+    <lastmod>2020-02-02T13:19:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/mx-player-pro/</loc>
+    <lastmod>2020-02-10T21:09:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/emule/</loc>
+    <lastmod>2020-01-25T09:33:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E4%B8%8B%E8%BD%BD%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2020-02-09T07:30:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/snipaste/</loc>
+    <lastmod>2020-01-23T09:55:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/idm-plus/</loc>
+    <lastmod>2020-01-21T14:43:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/adguard-windows/</loc>
+    <lastmod>2020-01-21T14:29:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/wps-office-android/</loc>
+    <lastmod>2020-02-28T09:30:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/moonreader-pro/</loc>
+    <lastmod>2020-02-10T21:10:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/v2ray/</loc>
+    <lastmod>2020-01-20T14:41:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/create-a-windows-service/</loc>
+    <lastmod>2020-01-20T14:41:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E6%9C%8D%E5%8A%A1/</loc>
+    <lastmod>2020-01-20T14:41:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/internet-download-manager/</loc>
+    <lastmod>2020-02-09T07:30:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dns/</loc>
+    <lastmod>2020-01-19T22:05:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/application-of-dns-technology-in-proxy-environment/</loc>
+    <lastmod>2020-01-19T22:05:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E4%BB%A3%E7%90%86/</loc>
+    <lastmod>2020-01-19T22:05:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2020-01-19T22:05:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/winrar/</loc>
+    <lastmod>2020-01-19T21:59:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/hashcheck/</loc>
+    <lastmod>2020-01-19T21:54:30+08:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
     <lastmod>2020-01-10T20:10:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-01-10T20:00:00+08:00</lastmod>
   </url>
   
 </urlset>
